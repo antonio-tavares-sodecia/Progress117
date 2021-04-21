@@ -1,1 +1,1 @@
-powershell -Command {$arg[0]}
+powershell -Command {$args[0]}
