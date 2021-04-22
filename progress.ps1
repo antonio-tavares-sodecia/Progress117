@@ -1,1 +1,1 @@
-powershell -Command {$args[0]}
+powershell c:\temp\teste.bat
